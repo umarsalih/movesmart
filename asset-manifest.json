@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/movesmart/static/js/main.c06369ae.js",
+    "static/media/hero-section-image.png": "/movesmart/static/media/hero-section-image.87511a0170fa70d6205f.png",
+    "index.html": "/movesmart/index.html",
+    "main.c06369ae.js.map": "/movesmart/static/js/main.c06369ae.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c06369ae.js"
+  ]
+}
