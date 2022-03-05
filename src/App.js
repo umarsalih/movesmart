@@ -23,7 +23,7 @@ function App() {
   }, [])
 
   const callAPI = () => {
-    axios.get(`https://api.translink.ca/rttiapi/v1/stops/${rootstopNumber}/estimates?apikey=${process.env.API_KEY}&count=3&timeframe=120`)
+    axios.get(`https://api.translink.ca/rttiapi/v1/stops/${rootstopNumber}/estimates?apikey=apikey=dxHQdGLthXll9hYpXR64&count=3&timeframe=120`)
       .then((response) => {
         console.log(response["data"]);
         setItems(response["data"]);
